@@ -1,0 +1,12 @@
+body {
+    background: gray;
+}
+
+h1 { 
+    text-align: center;
+    background: red;
+}
+
+p {
+    text-align: center;
+}
